@@ -226,7 +226,7 @@ const myChart3 = new Chart(ctx3, {
       type: 'bar', // Puedes cambiar el tipo de gráfico si lo deseas
     data: {
         labels: [
-          "Consejo Deliberante",
+          "Concejo Deliberante",
             "Intendencia",
             "Gobierno",
             "Gestion Urbana",
