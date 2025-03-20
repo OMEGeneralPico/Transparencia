@@ -1,0 +1,78 @@
+{
+  "CONCEJO DELIBERANTE": {
+   "Concejo deliberante": 107627639
+
+
+  },
+  "INTEDENCIA": {
+    "Intendencia":	196099353.54,
+    "Faltas":	299862728.23,
+    "Asuntos Legales":	198344675.49,
+    "Comunicacion" : 199027683.97,
+    "Modern. Tecn": 306415632.70,
+    "Protocolo":	105719779.07,
+    "Gest. Adm. Art":	41250204.17
+
+   
+  },
+  "GOBIERNO": {
+    "Gobierno":	419435238.70,
+    "Recursos Hum":	441250538.91,
+    "Prevenc. Ciud":	2160061435.48,
+    "Educ. y Cultura":	961435983.29,
+    "Rel.Institucional":	563471144.77,
+    "Juventud"	:207855523.10,
+    "Choferes":	376823691.25,
+    "Educacion":	166195743.82,
+    "Deportes":	410293469.81
+
+   
+  },
+  "PLANIFICACION": {
+   "Diseño y planific.": 76455619.99,
+   "Serv Cons": 183495489.71,
+   "Obras particulares": 369337473.19,
+   "Planeam.y catastro": 64541858.41,
+   "Planif.y gestión urbana": 326472049.98,
+   "Obras Municipales" : 1671320024.46
+   
+   
+  },
+  "ESPACIOS PUBLICOS": {
+    "Secretaria": 1519217217.31,
+    "Des. Sustentab":	277366601.86,
+    "Serv. Publicos":	2733077998.78,
+    "Arbolado":	986012874.59,
+    "Gestion Amb":	193325935.21,
+    "Zoonosis y vec": 267934037.23,
+    "RRU":	259637740.00,
+    "Girsu":	1792426551.23
+  },
+  "DESARROLLO SOCIAL": {
+    "Des Social":	1430897404.73,
+    "Familia": 745611310.16,
+    "Des. Infantil":	630363563.22,
+    "Des Territorial":	780807204.43,
+    "Unid. Niñez"	: 332544792.24,
+    "Polit. Genero"	:99685881.79
+   
+  },
+  "ECONOMIA": {
+    "Economia":	165662765.25,
+    "Contaduria"	:438672929.79,
+    "Rentas":	560500048.75,
+    "Dir. Comercio":	586167676.77,
+    "Des. Econo":	678868921.62,
+    "Tesoreria"	:315927569.64
+   
+  },
+  "ORGANISMOS DESCENTRALIZADOS": {
+   "Caminos vecinales":  238541328.30 ,
+   "Planta de asfalto":  679519361.50 
+   
+  },
+  "NO PROGRAMATICO": {
+   "Partidas no programáticas":  8322630674.68 
+
+  }
+}

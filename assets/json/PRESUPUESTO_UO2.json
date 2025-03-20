@@ -1,0 +1,78 @@
+{
+    "CONCEJO DELIBERANTE": {
+     "Concejo deliberante": 107627639
+  
+  
+    },
+    "INTEDENCIA": {
+      "Intendencia":	204716807.97,
+      "Faltas":	303704287.92,
+      "Asuntos Legales":	203832815.40,
+      "Comunicacion" : 219734207.79,
+      "Modern. Tecn":	315882891.15,
+      "Protocolo":	108064147.88,
+      "Gest. Adm. Art":	43336149.63
+  
+     
+    },
+    "GOBIERNO": {
+      "Gobierno":	421614205.61,
+      "Recursos Hum":	444475610.07,
+      "Prevenc. Ciud":	2222852648.34,
+      "Educ. y Cultura":	978048578.86,
+      "Rel.Institucional":	627798309.05,
+      "Juventud"	:211312850.45,
+      "Choferes":	378888309.28,
+      "Educacion":	173794248.22,
+      "Deportes":	434478525.10
+  
+     
+    },
+    "PLANIFICACION": {
+     "Diseño y planific.": 80064704.38,
+     "Infraestructura": 100906355,
+     "Obras particulares": 393653988.28,
+     "Planeam.y catastro": 69116556.78,
+     "Planif.y gestión urbana": 330044531.06,
+     "Obras Municipales" : 1710965273.40
+     
+     
+    },
+    "ESPACIOS PUBLICOS": {
+      "Secretaria": 1621745428.86,
+      "Des. Sustentab":	280537583.87,
+      "Serv. Publicos":	2837211783.59,
+      "Arbolado":	1077829392.00,
+      "Gestion Amb":	215270901.71,
+      "Zoonosis y vec"	:289689465.44,
+      "RRU":	637649000.00,
+      "Girsu":	1823845261.45
+    },
+    "DESARROLLO SOCIAL": {
+      "Des Social":	1463556023.44,
+      "Familia":768487611.17,
+      "Des. Infantil":	682207537.13,
+      "Des Territorial":	790476390.78,
+      "Unid. Niñez"	:351080791.87,
+      "Polit. Genero"	:106381455.41
+     
+    },
+    "ECONOMIA": {
+      "Economia":	191366036.56,
+      "Contaduria"	:450165916.55,
+      "Rentas":	590149780.73,
+      "Dir. Comercio":	594045808.36,
+      "Des. Econo":	704582203.92,
+      "Tesoreria"	:330727303.06
+     
+    },
+    "ORGANISMOS DESCENTRALIZADOS": {
+     "Caminos vecinales":  238541328.30 ,
+     "Planta de asfalto":  679519361.50 
+     
+    },
+    "NO PROGRAMATICO": {
+     "Partidas no programáticas":  8322630674.68 
+  
+    }
+  }
