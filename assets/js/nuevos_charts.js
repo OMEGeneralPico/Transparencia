@@ -240,7 +240,7 @@ const myChart3 = new Chart(ctx3, {
         
             {
                 label: 'Ejecutado',
-                data: [
+                data: [ 1139965376.41,
                     1346720057.17,
                     5706822769.13,
                     2691622515.74,
@@ -259,7 +259,7 @@ const myChart3 = new Chart(ctx3, {
             stack: 'presupuesto'
             },    {
               label: 'Presupuesto',
-              data: [
+              data: [ 1493213562.25,
                   1399271307.74,
                   5893263284.98,
                   2771489217.39,
