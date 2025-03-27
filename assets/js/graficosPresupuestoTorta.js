@@ -54,7 +54,7 @@ function generarchart(etiquetas, data2, ctx) {
         
         title: {
           display: true,
-          text: 'Ejecucion por rubro (%)',
+          text: 'Ejecucion por unidad (%)',
 
           align: 'start',
           font: {

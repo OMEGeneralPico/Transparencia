@@ -1,65 +1,78 @@
 {
    "CONCEJO DELIBERANTE": {
-     "Bienes de capital": 1.89,
-      "Bienes de consumo": 7.27,
-      "Gasto en personal": 72.11,
-      "Ser. no personales": 15.43,
-      "Transf. sociales": 1.83,
-      "Trabajos públicos": 1.46
+    "Concejo deliberante": 107627639
+ 
+ 
    },
-   "INTENDENCIA": {
-      "Bienes de capital": 1.52,
-      "Bienes de consumo": 4.12,
-      "Gasto en personal": 67.20,
-      "Ser. no personales": 27.16
+   "INTEDENCIA": {
+     "Intendencia":	14.56,
+     "Faltas":	22.27,
+     "Asuntos Legales": 14.73,
+     "Comunicacion" : 14.78,
+     "Modern. Tecn": 22.75,
+     "Protocolo":	7.85,
+     "Gest. Adm. Art":	3.06
+ 
+    
    },
    "GOBIERNO": {
-      "Bienes de capital": 0.64,
-      "Bienes de consumo": 7.07,
-      "Gasto en personal": 56.37,
-      "Ser. no personales": 20.10,
-      "Trabajos Publicos": 1.39,
-      "Transf. sociales": 14.43
+     "Gobierno":	7.35,
+     "Recursos Hum":	7.73,
+     "Prevenc. Ciud":	37.85,
+     "Educ. y Cultura":	16.85,
+     "Rel.Institucional":	9.87,
+     "Juventud"	: 3.64,
+     "Choferes":	6.60,
+     "Educacion":	2.91,
+     "Deportes":	7.19
+ 
+    
    },
    "PLANIFICACION": {
-      "Bienes de capital": 1.93,
-      "Bienes de consumo": 2.26,
-      "Gasto en personal": 31.72,
-      "Ser. no personales": 12.03,
-      "Prestamos": 0.05,
-      "Trabajos públicos": 52.01
+    "Diseño y planific.": 12.13,
+    "Serv Cons": 6.82,
+    "Obras particulares": 13.72,
+    "Planeam.y catastro": 2.40,
+    "Planif.y gestión urbana": 2.84,
+    "Obras Municipales" : 62.09
+    
+    
    },
    "ESPACIOS PUBLICOS": {
-     "Bienes de capital": 5.82,
-      "Bienes de consumo": 12.23,
-      "Gasto en personal": 56.49,
-      "Ser. no personales": 25.05
+     "Secretaria": 18.92,
+     "Des. Sustentab":	3.45,
+     "Serv. Publicos":	34.04,
+     "Arbolado":	12.28,
+     "Gestion Amb":	2.41,
+     "Zoonosis y vec": 3.34,
+     "RRU":	3.23,
+     "Girsu":	22.32
    },
    "DESARROLLO SOCIAL": {
-      "Bienes de capital": 2.51,
-      "Bienes de consumo": 5.67,
-      "Gasto en personal": 54.35,
-      "Ser. no personales": 14.05,
-      "Transf. sociales": 23.41
+     "Des Social":	35.60,
+     "Familia": 18.55,
+     "Des. Infantil":	15.68,
+     "Des Territorial":	19.42,
+     "Unid. Niñez"	: 8.27,
+     "Polit. Genero"	: 2.48
     
    },
    "ECONOMIA": {
-      "Bienes de capital": 1.68,
-      "Bienes de consumo": 4.74,
-      "Gasto en personal": 70.40,
-      "Ser. no personales": 20.12,
-      "Transf. sociales": 0.64,
-      "Prestamos": 2.41
+     "Economia":	6.03,
+     "Contaduria"	: 15.98,
+     "Rentas":	20.41,
+     "Dir. Comercio":	21.35,
+     "Des. Econo":	24.72,
+     "Tesoreria"	: 11.51
+    
    },
    "ORGANISMOS DESCENTRALIZADOS": {
-      "Bienes de capital": 7.76,
-      "Bienes de consumo": 23.93,
-      "Gasto en personal": 9.88,
-      "Ser. no personales": 6.49
+    "Caminos vecinales":  238541328.30 ,
+    "Planta de asfalto":  679519361.50 
+    
    },
    "NO PROGRAMATICO": {
-      "Ser. no personales": 162.86,
-      "Deuda Pública": 39.37,
-      "Programas especiales": 16.96
+    "Partidas no programáticas":  8322630674.68 
+ 
    }
-}
+ }
