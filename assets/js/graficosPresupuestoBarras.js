@@ -18,7 +18,7 @@ function generarchartbarra(etiquetas, data2, ctx) {
           'rgba(215, 90, 218, 0.2)',
           'rgba(240, 150, 145, 0.2)',
           'rgba(55, 55, 55,0.2)',
-          'rgba(235, 235, 225,0.2)'
+         'rgba(145, 145, 20, 0.2)'
         ],
         borderColor: [
           'rgba(71, 123, 168, 1)',
@@ -29,7 +29,7 @@ function generarchartbarra(etiquetas, data2, ctx) {
           'rgba(215, 90, 218, 1)',
           'rgba(240, 150, 145, 1)',
           'rgba(55, 55, 55,1)',
-          'rgba(235, 235, 225,1)'
+               'rgb(166, 166, 25)'
         ],
         borderWidth: 1
       }]
