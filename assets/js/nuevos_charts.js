@@ -229,7 +229,7 @@ const myChart3 = new Chart(ctx3, {
           "Concejo Deliberante",
             "Intendencia",
             "Gobierno",
-            "Gestion Urbana",
+            "Obras Publicas",
             "Ambiente",
             "Des. Social",
             "Economia",
@@ -327,7 +327,7 @@ data: {
     labels: [
         "Personal",
         "Bienes de Consumo",
-        "No Personales",
+        "Servicios no personales",
         "Transf. Sociales",
         "Bienes de Capital",
         "Trabajo Publico",
@@ -339,13 +339,13 @@ data: {
         {
             label: 'Ejecutado',
             data: [
-              15270543818.85 ,
-              1732864914.47 ,
-              4532800568.53 ,
-              1830585842.62 ,
-              778770537.77 ,
-              1472498421.22 ,
-              61775639.59 
+              15736216491.39 ,
+              2024050555.94 ,
+              7463385294.95 ,
+              1963251842.62 ,
+              817885060.44 ,
+              2724180050.77 ,
+              179179339.56 
               
 
             ],
@@ -358,12 +358,12 @@ data: {
         },    {
           label: 'Presupuesto',
           data: [
-             15456767926.82,
-              2091645218.56 ,
-              5524960458.05 ,
-              1870879542.23 ,
-               804382592.15 ,
-               1545017469.26 ,   70589841.19 
+            15928443791.25 ,
+            2393304132.46 ,
+            8492816404.50 ,
+            2063680597.74 ,
+            843497114.82,
+            2848160714.12 ,   188816730.90
              
           ],
           backgroundColor: 'rgb(255, 0, 0,1)',
