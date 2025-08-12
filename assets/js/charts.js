@@ -34,7 +34,7 @@ function animarpresupuestosecre() {
                 type: 'doughnut',
                 data: {
 
-                    labels: ['Consejo Deliberante', 'Intendencia', 'Gobierno', 'Planif. Urbana', 'Ambiente', 'Desarrollo Social', 'Economia', 'Org. Descentralizados', 'No programaticos'],
+                    labels: ['Consejo Deliberantsssssssssssse', 'Intendencia', 'Gobierno', 'Planif. Urbana', 'Ambiente', 'Desarrollo Social', 'Economia', 'Org. Descentralizados', 'No programaticos'],
                     datasets: [
                         {
                             tension: 0.1,
@@ -232,7 +232,7 @@ function animarpersonalsecre() {
                 type: 'bar',
                 data: {
 
-                    labels: ['C.Deliberante', 'Intendencia', 'Gobierno', 'Planif. Urbana', 'Ambiente', 'Desarrollo Social', 'Economia', 'Org. Descentralizados'],
+                    labels: ['Concejo Deliberante', 'Intendencia', 'Gobierno', 'Obras Publicas', 'Ambiente y Serv Pub', 'Desarrollo Social', 'Economia', 'Org. Descentralizados'],
                     datasets: [
                         {
                             tension: 0.1,

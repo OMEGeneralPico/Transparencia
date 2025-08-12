@@ -1,78 +1,66 @@
 {
-   "CONCEJO DELIBERANTE": {
-    "Concejo deliberante": 107627639
- 
- 
-   },
-   "INTEDENCIA": {
-     "Intendencia":	14.56,
-     "Faltas":	22.27,
-     "Asuntos Legales": 14.73,
-     "Comunicacion" : 14.78,
-     "Modern. Tecn": 22.75,
-     "Protocolo":	7.85,
-     "Gest. Adm. Art":	3.06
- 
-    
-   },
-   "GOBIERNO": {
-     "Gobierno":	7.35,
-     "Recursos Hum":	7.73,
-     "Prevenc. Ciud":	37.85,
-     "Educ. y Cultura":	16.85,
-     "Rel.Institucional":	9.87,
-     "Juventud"	: 3.64,
-     "Choferes":	6.60,
-     "Educacion":	2.91,
-     "Deportes":	7.19
- 
-    
-   },
-   "PLANIFICACION": {
-    "Diseño y planific.": 12.13,
-    "Serv Cons": 6.82,
-    "Obras particulares": 13.72,
-    "Planeam.y catastro": 2.40,
-    "Planif.y gestión urbana": 2.84,
-    "Obras Municipales" : 62.09
-    
-    
-   },
-   "ESPACIOS PUBLICOS": {
-     "Secretaria": 18.92,
-     "Des. Sustentab":	3.45,
-     "Serv. Publicos":	34.04,
-     "Arbolado":	12.28,
-     "Gestion Amb":	2.41,
-     "Zoonosis y vec": 3.34,
-     "RRU":	3.23,
-     "Girsu":	22.32
-   },
-   "DESARROLLO SOCIAL": {
-     "Des Social":	35.60,
-     "Familia": 18.55,
-     "Des. Infantil":	15.68,
-     "Des Territorial":	19.42,
-     "Unid. Niñez"	: 8.27,
-     "Polit. Genero"	: 2.48
-    
-   },
-   "ECONOMIA": {
-     "Economia":	6.03,
-     "Contaduria"	: 15.98,
-     "Rentas":	20.41,
-     "Dir. Comercio":	21.35,
-     "Des. Econo":	24.72,
-     "Tesoreria"	: 11.51
-    
-   },
-   "ORGANISMOS DESCENTRALIZADOS": {
-    "Caminos vecinales":  238541328.30 ,
-    "Planta de asfalto":  679519361.50 
-    
-   },
-   "NO PROGRAMATICO": {
-    "Partidas no programáticas":  8322630674.68 
- 
-   }
- }
+  "CONCEJO DELIBERANTE": {
+    "Concejo Deliberante": 107627639
+  },
+  "INTEDENCIA": {
+    "Intendencia": 14.56,
+    "Juzgado de Faltas": 22.27,
+    "Dir. Asuntos Legales": 14.73,
+    "Dir. Comunicaciones": 14.78,
+    "Dir. Modernización": 22.75,
+    "Protocolo y Ceremonial": 7.85,
+    "Dir. Gestion y Articulacion": 3.06
+  },
+  "GOBIERNO": {
+    "Secretaria Gobierno": 7.35,
+    "Dir. Recursos Humanos": 7.73,
+    "Dir. Prevecion y Seguridad": 37.85,
+    "Dir. Gestion Cultural": 16.85,
+    "por corregir - Rel.Institucional": 9.87,
+    "Dir. Juventud": 3.64,
+    "Gerencia Choferes": 6.60,
+    "Dir. Educacion": 2.91,
+    "Dir. Deporte": 7.19
+  },
+  "PLANIFICACION": {
+    "Dir. Diseño y Planificacion Terr": 12.13,
+    "Ente Reg, Serv. Concesionados": 6.82,
+    "Dir. Obras Particulares": 13.72,
+    "Dir. Planeamiento y Catastro": 2.40,
+    "por corregir - Planif.y gestión urbana": 2.84,
+    "por corregir - Obras Municipales": 62.09
+  },
+  "ESPACIOS PUBLICOS": {
+    "Secretaria Obras Publicas": 18.92,
+    "por corregir - Des. Sustentab": 3.45,
+    "Dir. Servicios Publicos": 34.04,
+    "Dir. Arbolado y Parques": 12.28,
+    "Gestion Ambiental": 2.41,
+    "Dir. Zoonosis y Vectores": 3.34,
+    "R.R.U": 3.23,
+    "Dir. Girsu": 22.32
+  },
+  "DESARROLLO SOCIAL": {
+    "Sec. Desarrollo Social": 35.60,
+    "Dir. Familia": 18.55,
+    "Centros Des. Infantil": 15.68,
+    "Coord. Centros Des Territorial": 19.42,
+    "Dir. Unidad Local Niñez": 8.27,
+    "Dir. Politicas de Genero": 2.48
+  },
+  "ECONOMIA": {
+    "Sec. Economia": 6.03,
+    "Contaduria General": 15.98,
+    "Dir. Rentas": 20.41,
+    "Dir. Hab y Control Comercial": 21.35,
+    "Dir. Desarrollo Econ y Prod": 24.72,
+    "Tesoreria": 11.51
+  },
+  "ORGANISMOS DESCENTRALIZADOS": {
+    "Org. Desc. Caminos Vecinales": 238541328.30,
+    "Org. Desc. Planta Asfalto": 679519361.50
+  },
+  "NO PROGRAMATICO": {
+    "Partidas No Programaticas": 8322630674.68
+  }
+}

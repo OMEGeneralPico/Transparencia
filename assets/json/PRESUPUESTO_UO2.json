@@ -1,78 +1,67 @@
 {
-    "CONCEJO DELIBERANTE": {
-     "Concejo deliberante": 107627639
-  
-  
-    },
-    "INTEDENCIA": {
-      "Intendencia":	204716807.97,
-      "Faltas":	303704287.92,
-      "Asuntos Legales":	203832815.40,
-      "Comunicacion" : 219734207.79,
-      "Modern. Tecn":	315882891.15,
-      "Protocolo":	108064147.88,
-      "Gest. Adm. Art":	43336149.63
-  
-     
-    },
-    "GOBIERNO": {
-      "Gobierno":	421614205.61,
-      "Recursos Hum":	444475610.07,
-      "Prevenc. Ciud":	2222852648.34,
-      "Educ. y Cultura":	978048578.86,
-      "Rel.Institucional":	627798309.05,
-      "Juventud"	:211312850.45,
-      "Choferes":	378888309.28,
-      "Educacion":	173794248.22,
-      "Deportes":	434478525.10
-  
-     
-    },
-    "PLANIFICACION": {
-     "Diseño y planific.": 80064704.38,
-     "Infraestructura": 100906355,
-     "Obras particulares": 393653988.28,
-     "Planeam.y catastro": 69116556.78,
-     "Planif.y gestión urbana": 330044531.06,
-     "Obras Municipales" : 1710965273.40
-     
-     
-    },
-    "ESPACIOS PUBLICOS": {
-      "Secretaria": 1621745428.86,
-      "Des. Sustentab":	280537583.87,
-      "Serv. Publicos":	2837211783.59,
-      "Arbolado":	1077829392.00,
-      "Gestion Amb":	215270901.71,
-      "Zoonosis y vec"	:289689465.44,
-      "RRU":	637649000.00,
-      "Girsu":	1823845261.45
-    },
-    "DESARROLLO SOCIAL": {
-      "Des Social":	1463556023.44,
-      "Familia":768487611.17,
-      "Des. Infantil":	682207537.13,
-      "Des Territorial":	790476390.78,
-      "Unid. Niñez"	:351080791.87,
-      "Polit. Genero"	:106381455.41
-     
-    },
-    "ECONOMIA": {
-      "Economia":	191366036.56,
-      "Contaduria"	:450165916.55,
-      "Rentas":	590149780.73,
-      "Dir. Comercio":	594045808.36,
-      "Des. Econo":	704582203.92,
-      "Tesoreria"	:330727303.06
-     
-    },
-    "ORGANISMOS DESCENTRALIZADOS": {
-     "Caminos vecinales":  238541328.30 ,
-     "Planta de asfalto":  679519361.50 
-     
-    },
-    "NO PROGRAMATICO": {
-     "Partidas no programáticas":  8322630674.68 
-  
-    }
+  "CONCEJO DELIBERANTE": {
+    "Concejo Deliberante": 107627639
+  },
+  "INTEDENCIA": {
+    "Intendencia": 196099353.54,
+    "Juzgado de Faltas": 299862728.23,
+    "Dir. Asuntos Legales": 198344675.49,
+    "Dir. Comunicaciones": 199027683.97,
+    "Dir. Modernización": 306415632.70,
+    "Protocolo y Ceremonial": 105719779.07,
+    "Dir. Gestion y Articulacion": 41250204.17
+  },
+  "GOBIERNO": {
+    "Secretaria Gobierno": 419435238.70,
+    "Dir. Recursos Humanos": 441250538.91,
+    "Dir. Prevecion y Seguridad": 2160061435.48,
+    "Dir. Gestion Cultural": 961435983.29,
+    "Dir. Participacion Ciudadana": 563471144.77,
+    "Dir. Juventud": 207855523.10,
+    "Gerencia Choferes": 376823691.25,
+    "Dir. Educacion": 166195743.82,
+    "Dir. Deporte": 410293469.81
+  },
+
+  "PLANIFICACION": {
+    "Secretaria Obras Publicas": 76455619.99,
+    "Ente Reg, Serv. Concesionados": 183495489.71,
+    "Dir. Obras Particulares": 369337473.19,
+    "Dir. Planeamiento y Catastro": 64541858.41,
+    "Dir. Diseño y Planificacion Terr": 326472049.98,
+    "Dir. Infraestructura": 1671320024.46
+  },
+  "ESPACIOS PUBLICOS": {
+    "Secretaria Obras Publicas": 1519217217.31,
+    " Dir. Gral. Ambiente": 277366601.86,
+    "Dir. Servicios Publicos": 2733077998.78,
+    "Dir. Arbolado y Parques": 986012874.59,
+    "Gestion Ambiental": 193325935.21,
+    "Dir. Zoonosis y Vectores": 267934037.23,
+    "R.R.U": 259637740.00,
+    "Dir. Girsu": 1792426551.23
+  },
+  "DESARROLLO SOCIAL": {
+    "Sec. Desarrollo Social": 1430897404.73,
+    "Dir. Familia": 745611310.16,
+    "Centros Des. Infantil": 630363563.22,
+    "Coord. Centros Des Territorial": 780807204.43,
+    "Dir. Unidad Local Niñez": 332544792.24,
+    "Dir. Politicas de Genero": 99685881.79
+  },
+  "ECONOMIA": {
+    "Sec. Economia": 165662765.25,
+    "Contaduria General": 438672929.79,
+    "Dir. Rentas": 560500048.75,
+    "Dir. Hab y Control Comercial": 586167676.77,
+    "Dir. Desarrollo Econ y Prod": 678868921.62,
+    "Tesoreria": 315927569.64
+  },
+  "ORGANISMOS DESCENTRALIZADOS": {
+    "Org. Desc. Caminos Vecinales": 238541328.30,
+    "Org. Desc. Planta Asfalto": 679519361.50
+  },
+  "NO PROGRAMATICO": {
+    "Partidas No Programaticas": 8322630674.68
   }
+}
